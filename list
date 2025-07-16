@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTM3U
-#EXTINF:-1 tvg-id="A01" tvg-name="广东珠江频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/广东珠江.png" group-title="广东",广东珠江频道
+#EXTINF:-1 tvg-logo="https://github.com/catgorn/logo/blob/main/广东珠江.png" group-title="广东频道",广东珠江频道
 http://192.168.2.1:6688/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/广东体育.png" group-title="广东",广东体育频道
+#EXTINF:-1 tvg-logo="https://github.com/catgorn/logo/blob/main/广东体育.png" group-title="广东频道",广东体育频道
 http://192.168.2.1:6688/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="A092" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/广东卫视.png" group-title="广东",广东卫视
 http://192.168.2.1:6688/udp/239.77.0.166:5146
